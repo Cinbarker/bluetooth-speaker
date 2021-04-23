@@ -25,11 +25,11 @@ but is mostly a reference for building custom bluetooth speakers for any design.
 ### Specifications
 
 - 90 Wh battery - 5Hrs @ full power
-- Loudness: dB @ 1m
-- Weight: g
-- Size: mm
+- Loudness: ??dB @ 1m
+- Weight: ??g
+- Size: ??mm
 - Waterproof: Not really
-- Internal Volume: lts
+- Internal Volume: ??lts
 - Powerbank; charges usb devices
 - Fast charging: USBC PD 15V 3A (45W) charging. Two hours for full charge.
 - Entirely made of off-shelf components
